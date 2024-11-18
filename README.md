@@ -22,3 +22,7 @@ patients at once.
 monitor patient’s temperature, have servos with arm-like extension
 to extend Oximeter.
 4) Add arms to serve the food/medicine to the respective patient.
+
+
+Results
+https://youtube.com/shorts/iEHpPss8-1A?si=lRjrq_-ORD3xqvn7
